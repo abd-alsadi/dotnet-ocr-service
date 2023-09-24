@@ -1,0 +1,8 @@
+S:\LocalPro\KmnlkOCR\MyTest\obj\Debug\MyTest.csprojResolveAssemblyReference.cache
+S:\LocalPro\KmnlkOCR\MyTest\bin\Debug\MyTest.exe.config
+S:\LocalPro\KmnlkOCR\MyTest\bin\Debug\MyTest.exe
+S:\LocalPro\KmnlkOCR\MyTest\bin\Debug\MyTest.pdb
+S:\LocalPro\KmnlkOCR\MyTest\bin\Debug\KmnlkCommon.dll
+S:\LocalPro\KmnlkOCR\MyTest\bin\Debug\Newtonsoft.Json.dll
+S:\LocalPro\KmnlkOCR\MyTest\obj\Debug\MyTest.exe
+S:\LocalPro\KmnlkOCR\MyTest\obj\Debug\MyTest.pdb

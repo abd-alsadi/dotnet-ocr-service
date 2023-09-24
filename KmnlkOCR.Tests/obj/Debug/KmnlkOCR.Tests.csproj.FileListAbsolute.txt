@@ -1,0 +1,5 @@
+S:\LocalPro\KmnlkOCR\KmnlkOCR.Tests\bin\Debug\KmnlkOCR.Tests.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCR.Tests\bin\Debug\KmnlkOCR.Tests.pdb
+S:\LocalPro\KmnlkOCR\KmnlkOCR.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCR.Tests\obj\Debug\KmnlkOCR.Tests.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCR.Tests\obj\Debug\KmnlkOCR.Tests.pdb

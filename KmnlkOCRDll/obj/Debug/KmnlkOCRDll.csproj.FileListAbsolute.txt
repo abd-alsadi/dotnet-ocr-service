@@ -1,0 +1,13 @@
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\obj\Debug\KmnlkOCRDll.csprojResolveAssemblyReference.cache
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\x86\liblept1760.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\x86\libtesseract400.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\x64\liblept1760.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\x64\libtesseract400.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\KmnlkOCRDll.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\KmnlkOCRDll.pdb
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\KmnlkCommon.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\System.Drawing.Common.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\Tesseract.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\bin\Debug\Newtonsoft.Json.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\obj\Debug\KmnlkOCRDll.dll
+S:\LocalPro\KmnlkOCR\KmnlkOCRDll\obj\Debug\KmnlkOCRDll.pdb

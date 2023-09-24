@@ -1,0 +1,77 @@
+{
+	"info": {
+		"_postman_id": "8cc9fdc7-4db0-4b59-a507-2d548d2eb24a",
+		"name": "KmnlkOCRApiCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "getTextFromImage",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/x-www-form-urlencoded",
+						"type": "text"
+					},
+					{
+						"key": "",
+						"value": "",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/Tech/Pictures/Capture.PNG"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:62906/api/v1/OCRImage/GetTextFromImage?x=0&y=0&width=100&height=100",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "62906",
+					"path": [
+						"api",
+						"v1",
+						"OCRImage",
+						"GetTextFromImage"
+					],
+					"query": [
+						{
+							"key": "x",
+							"value": "0"
+						},
+						{
+							"key": "y",
+							"value": "0"
+						},
+						{
+							"key": "width",
+							"value": "100"
+						},
+						{
+							"key": "height",
+							"value": "100"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

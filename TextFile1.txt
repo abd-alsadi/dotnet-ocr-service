@@ -1,0 +1,1 @@
+- Get-Project KmnlkOCRDll | Install-package Tesseract -Version 3.0.2

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<VersionNumber>2019.01</VersionNumber>
+<PublicKey></PublicKey>
+<EnableLog>true</EnableLog>
+<TypeLog>file</TypeLog>
+<PathLog>E:\my projects\KmnlkOCR\KmnlkOCRApi\Output\Log\Global\</PathLog>
+<GlobalPathLog>E:\my projects\KmnlkOCR\KmnlkOCRApi\Output\Log\Global\</GlobalPathLog>
+<DataFolder>E:\my projects\KmnlkOCR\KmnlkOCRApi\DataFolder\</DataFolder>
+<UploadFilesMaximumFileSize>0</UploadFilesMaximumFileSize>
+<OCRServiceUrl></OCRServiceUrl>
+<TessdataPath>E:\my projects\KmnlkOCR\KmnlkOCRApi\Settings\tessdata\</TessdataPath>
+</Settings>
